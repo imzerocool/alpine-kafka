@@ -1,6 +1,6 @@
 FROM alpine:3.14
 
-LABEL maintainer "https://github.com/blacktop"
+LABEL maintainer "LOT Inc."
 
 ENV KAFKA_VERSION 3.0.0
 ENV SCALA_VERSION 2.13
